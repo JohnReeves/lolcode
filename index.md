@@ -81,7 +81,7 @@ OIC
 KTHXBYE
 ```
 
-##I hope you liek the cool cat code, the results from my program look like this:
+*I hope you liek the cool cat code, the results from my program look like this:*
 
 
 ![Imgur](http://i.imgur.com/LoJEg1O.png)
@@ -115,7 +115,7 @@ KTHXBYE
 ```
 
 
-##The results from my code look like this:
+*The results from my code look like this:*
 
 ![Imgur](http://i.imgur.com/nBedbq1.png)
 
@@ -146,7 +146,7 @@ IM OUTTA YR LOOP
 KTHXBYE
 ```
 
-##The results from my code look like this:
+*The results from my code look like this:*
 
 
 ![Imgur](http://i.imgur.com/fHFRust.png)
@@ -186,7 +186,7 @@ TASTEH ANIMAL
 KTHXBYE
 ```
 
-##The results of my code look like this:
+*The results of my code look like this:*
 
 
 ![Imgur](http://i.imgur.com/HIbI1Rr.png)
@@ -203,11 +203,11 @@ Fun fact: Leonado Pisano, also known as Fibonacci (son of Bonacci), did absolute
 
 The sequence is 1 1 2 3 5 8 13 21 - each number is given as the some of the previous 2 numbers. 1 + 1 = 2, 1 + 2 = 3 etc
 
-*This neatly gives the generating function of the sequence,
+* This neatly gives the generating function of the sequence,
 
 It ain't Poetry but it seems to work - it gives:
 
-*Fibonacci rule F_n = F_{n-1} + F_{n-2}.
+* Fibonacci rule F_n = F_{n-1} + F_{n-2}.
 
 Which we can program easily with a function that calls itself twice!
 
@@ -248,7 +248,7 @@ KTHXBYE
 
 Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two intermediate variables to store the values of the previous calls to the Fibonacceh function. Meh.
 
-##My code and the results of running it look like this:
+*My code and the results of running it look like this:*
 
 ![Imgur](http://i.imgur.com/f9BCX05.png)
 
@@ -258,7 +258,7 @@ Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two 
 
 Some programming fun, coding challenges:
 
-##A. Code a generator for '10 green bottles'
+* A. Code a generator for '10 green bottles'
 
 
 ```
@@ -273,7 +273,7 @@ there'll be 9 green bottles sitting on the wall
 It's quite good fun to go to -10 green bottles, and then count up again.
 
 
-##B. Code a generator for a binary search
+* B. Code a generator for a binary search
 
 Python can do the [**binary search**](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) like this:
 
