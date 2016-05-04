@@ -61,7 +61,7 @@ KTHXBYE
 
 #4. CONDITIONALS
 
-The conditional ```if (Var1 == Var2){}``` is represented as ``` BOTH SAEM Var1 AN Var2`` and ``` O RLY?```, on a new line.
+The conditional ```if (Var1 == Var2){}``` is represented as ``` BOTH SAEM Var1 AN Var2``` and ``` O RLY?```, on a new line.
 
 The true condition has ```YA RLY``` and, of course, you can do nested conditions with ```GIMME```. Like in the example below:
 
@@ -91,7 +91,7 @@ KTHXBYE
 
 #5. SWITCH STATEMENTS
 
-Multiple conditions can usually be written more neatly  as a Switch/Case statement, this is represented as ``` Var, WTF? and OMG Val`` for the switch / case.
+Multiple conditions can usually be written more neatly  as a Switch/Case statement, this is represented as ``` Var, WTF? and OMG Val``` for the switch / case.
 
 So, the nested conditions of the cat & mouse game from the previous slide can be rewritten like the example below:
 
