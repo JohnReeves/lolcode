@@ -30,7 +30,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-##Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.
+*Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.*
 
 
 ![Imgur](http://i.imgur.com/Gc6oLcE.png)
@@ -51,7 +51,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-##repl.it waits on the command line, as you can see when I run my program below:
+*repl.it waits on the command line, as you can see when I run my program below:*
 
 
 ![Imgur](http://i.imgur.com/lAlxL1r.png)
