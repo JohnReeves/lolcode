@@ -3,13 +3,13 @@
 
 We're going to be using a website called www.repl.it to have fun with lolcode.
 
-Firstly, open repl.it (ctrl-left click or right click and open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
+*pen repl.it (ctrl-left click or right click and open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
 
 Don't forget the buttons in the top bar regularly:
 
-Run - when you want to test your code
+*Run - when you want to test your code
 
-Save - when you think it works and you wanna share
+*Save - when you think it works and you wanna share
 
 
 ![Imgur](http://i.imgur.com/l3EsgJk.png)
@@ -30,7 +30,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.
+##Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.
 
 
 ![Imgur](http://i.imgur.com/Gc6oLcE.png)
@@ -51,7 +51,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-repl.it waits on the command line, as you can see when I run my program below:
+##repl.it waits on the command line, as you can see when I run my program below:
 
 
 ![Imgur](http://i.imgur.com/lAlxL1r.png)
@@ -81,7 +81,7 @@ OIC
 KTHXBYE
 ```
 
-I hope you liek the cool cat code, the results from my program look like this:
+##I hope you liek the cool cat code, the results from my program look like this:
 
 
 ![Imgur](http://i.imgur.com/LoJEg1O.png)
@@ -115,7 +115,7 @@ KTHXBYE
 ```
 
 
-The results from my code look like this:
+##The results from my code look like this:
 
 ![Imgur](http://i.imgur.com/nBedbq1.png)
 
@@ -146,7 +146,7 @@ IM OUTTA YR LOOP
 KTHXBYE
 ```
 
-The results from my code look like this:
+##The results from my code look like this:
 
 
 ![Imgur](http://i.imgur.com/fHFRust.png)
@@ -186,7 +186,7 @@ TASTEH ANIMAL
 KTHXBYE
 ```
 
-The results of my code look like this:
+##The results of my code look like this:
 
 
 ![Imgur](http://i.imgur.com/HIbI1Rr.png)
@@ -203,11 +203,11 @@ Fun fact: Leonado Pisano, also known as Fibonacci (son of Bonacci), did absolute
 
 The sequence is 1 1 2 3 5 8 13 21 - each number is given as the some of the previous 2 numbers. 1 + 1 = 2, 1 + 2 = 3 etc
 
-This neatly gives the generating function of the sequence,
+*This neatly gives the generating function of the sequence,
 
 It ain't Poetry but it seems to work - it gives:
 
-Fibonacci rule F_n = F_{n-1} + F_{n-2}.
+*Fibonacci rule F_n = F_{n-1} + F_{n-2}.
 
 Which we can program easily with a function that calls itself twice!
 
@@ -248,7 +248,7 @@ KTHXBYE
 
 Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two intermediate variables to store the values of the previous calls to the Fibonacceh function. Meh.
 
-My code and the results of running it look like this:
+##My code and the results of running it look like this:
 
 ![Imgur](http://i.imgur.com/f9BCX05.png)
 
@@ -258,7 +258,7 @@ My code and the results of running it look like this:
 
 Some programming fun, coding challenges:
 
-A. Code a generator for '10 green bottles'
+##A. Code a generator for '10 green bottles'
 
 
 ```
@@ -273,7 +273,7 @@ there'll be 9 green bottles sitting on the wall
 It's quite good fun to go to -10 green bottles, and then count up again.
 
 
-B. Code a generator for a binary search
+##B. Code a generator for a binary search
 
 Python can do the [**binary search**](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) like this:
 
