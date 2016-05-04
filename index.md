@@ -3,13 +3,13 @@
 
 We're going to be using a website called www.repl.it to have fun with lolcode.
 
-*pen repl.it (ctrl-left click or right click and open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
+* Open repl.it (ctrl-left click or right click and open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
 
 Don't forget the buttons in the top bar regularly:
 
-*Run - when you want to test your code
+* Run - when you want to test your code
 
-*Save - when you think it works and you wanna share
+* Save - when you think it works and you wanna share
 
 
 ![Imgur](http://i.imgur.com/l3EsgJk.png)
