@@ -7,9 +7,9 @@ We're going to be using a website called www.repl.it to have fun with lolcode.
 
 Don't forget the buttons in the top bar regularly:
 
-*Run - when you want to test your code
+* Run - when you want to test your code
 
-*Save - when you think it works and you wanna share
+* Save - when you think it works and you wanna share
 
 
 ![Imgur](http://i.imgur.com/l3EsgJk.png)
@@ -30,7 +30,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-*Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.*
+* Add hip comments to your code using BTW for single line comments and OBTW / TLDR for multiline comments, like in my hello world program below.*
 
 
 ![Imgur](http://i.imgur.com/Gc6oLcE.png)
@@ -51,7 +51,7 @@ HAI 1.2
 KTHXBYE
 ```
 
-*repl.it waits on the command line, as you can see when I run my program below:*
+* repl.it waits on the command line, as you can see when I run my program below:*
 
 
 ![Imgur](http://i.imgur.com/lAlxL1r.png)
@@ -81,7 +81,7 @@ OIC
 KTHXBYE
 ```
 
-*I hope you liek the cool cat code, the results from my program look like this:*
+* I hope you liek the cool cat code, the results from my program look like this:*
 
 
 ![Imgur](http://i.imgur.com/LoJEg1O.png)
@@ -115,7 +115,7 @@ KTHXBYE
 ```
 
 
-*The results from my code look like this:*
+* The results from my code look like this:*
 
 ![Imgur](http://i.imgur.com/nBedbq1.png)
 
@@ -146,7 +146,7 @@ IM OUTTA YR LOOP
 KTHXBYE
 ```
 
-*The results from my code look like this:*
+* The results from my code look like this:*
 
 
 ![Imgur](http://i.imgur.com/fHFRust.png)
@@ -248,7 +248,7 @@ KTHXBYE
 
 Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two intermediate variables to store the values of the previous calls to the Fibonacceh function. Meh.
 
-*My code and the results of running it look like this:*
+* My code and the results of running it look like this:*
 
 ![Imgur](http://i.imgur.com/f9BCX05.png)
 
