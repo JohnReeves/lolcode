@@ -24,8 +24,8 @@ Don't forget the buttons in the top bar regularly:
 
 So our ubiquitous 'Hello World' program becomes:
 
-```
-HAI 1.2
+```lolcode
+HAI 1.3
     VISIBLE "HAI, WORLD!!!
 KTHXBYE
 ```
@@ -43,7 +43,7 @@ Variables are declared using ```I HAS A```, and the variables can be initialized
 
 Or we can ask the user for values using ```GIMMEH```. In some systems it brings up a modal dialog box, other systems wait for command line entry.
 
-```
+```lolcode
 HAI 1.3
     I HAS A KITTEH
     GIMMEH KITTEH
@@ -65,7 +65,7 @@ The conditional ```if (Var1 == Var2){}``` is represented as ``` BOTH SAEM Var1 A
 
 The true condition has ```YA RLY``` and, of course, you can do nested conditions with ```GIMME```. Like in the example below:
 
-```
+```lolcode
 HAI 1.3
 
 I HAS A ANIMAL
@@ -96,7 +96,7 @@ Multiple conditions can usually be written more neatly  as a Switch/Case stateme
 So, the nested conditions of the cat & mouse game from the previous slide can be rewritten like the example below:
 
 
-```
+```lolcode
 HAI 1.3
 I HAS A KITTEH
 GIMMEH KITTEN
@@ -128,7 +128,7 @@ Loops are a succinct way of representing repetition, this is represented as ''' 
 So, the classic game of 'I ate a ...' can be rewritten like this:
 
 
-```
+```lolcode
 HAI 1.3
 
 I HAS A KITTEH ITZ "Katz"
@@ -161,7 +161,7 @@ Functions are declared using ``` HOW DUZ I FunctionName YR Var / IF U SAY SO```
 
 So, our cat & mouse game can be refactored like this:
 
-```
+```locode
 HAI 1.3
 
 HOW DUZ I TASTEH YR BEAST
