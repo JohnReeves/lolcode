@@ -25,7 +25,7 @@ Don't forget the buttons in the top bar regularly:
 So our ubiquitous 'Hello World' program becomes:
 
 ```lolcode
-HAI 1.3
+HAI 1.2
     VISIBLE "HAI, WORLD!!!
 KTHXBYE
 ```
@@ -44,7 +44,7 @@ Variables are declared using ```I HAS A```, and the variables can be initialized
 Or we can ask the user for values using ```GIMMEH```. In some systems it brings up a modal dialog box, other systems wait for command line entry.
 
 ```lolcode
-HAI 1.3
+HAI 1.2
     I HAS A KITTEH
     GIMMEH KITTEH
     VISIBLE "HAI, " KITTEH
@@ -66,7 +66,7 @@ The conditional ```if (Var1 == Var2){}``` is represented as ``` BOTH SAEM Var1 A
 The true condition has ```YA RLY``` and, of course, you can do nested conditions with ```GIMME```. Like in the example below:
 
 ```lolcode
-HAI 1.3
+HAI 1.2
 
 I HAS A ANIMAL
 GIMMEH ANIMAL
@@ -97,7 +97,7 @@ So, the nested conditions of the cat & mouse game from the previous slide can be
 
 
 ```lolcode
-HAI 1.3
+HAI 1.2
 I HAS A KITTEH
 GIMMEH KITTEN
 
@@ -129,7 +129,7 @@ So, the classic game of 'I ate a ...' can be rewritten like this:
 
 
 ```lolcode
-HAI 1.3
+HAI 1.2
 
 I HAS A KITTEH ITZ "Katz"
 I HAS A IDIOT ITZ 0
@@ -162,7 +162,7 @@ Functions are declared using ``` HOW DUZ I FunctionName YR Var / IF U SAY SO```
 So, our cat & mouse game can be refactored like this:
 
 ```locode
-HAI 1.3
+HAI 1.2
 
 HOW DUZ I TASTEH YR BEAST
 
@@ -212,7 +212,7 @@ It ain't Poetry but it seems to work - it gives:
 Which we can program easily with a function that calls itself twice!
 
 ```lolcode
-HAI 1.3
+HAI 1.2
 
 HOW DUZ I FIBONACCEH YR NUMBEH
   
