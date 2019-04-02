@@ -173,6 +173,8 @@ BEAST, WTF?
        VISIBLE "NOM NOM NOM. I EATED IT."
        GTFO
     OMGWTF
+       VISIBLE "BLARRRGH! I HATE " BEAST 
+       GTFO
 OIC
 
 IF U SAY SO
@@ -257,7 +259,7 @@ Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two 
 
 Some programming fun, coding challenges:
 
-* A. Code a generator for '10 green bottles'
+## A. Code a generator for '10 green bottles'
 
 
 ```
@@ -272,9 +274,9 @@ there'll be 9 green bottles sitting on the wall
 It's quite good fun to go to -10 green bottles, and then count up again.
 
 
-* B. Code a generator for a binary search
+## B. Code a generator for a binary search
 
-Python can do the [**binary search**](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) like this:
+The [**binary search**](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) can be written in Python like this:
 
 ```python
 def search_binary(xs, target):
@@ -291,6 +293,7 @@ def search_binary(xs, target):
         # Fetch the item at that position
         item_at_mid = xs[mid_index]
 
+        # uncomment for debug
         # print("ROI[{0}:{1}](size={2}), probed='{3}', target='{4}'"
         #       .format(lb, ub, ub-lb, item_at_mid, target))
 
@@ -304,7 +307,7 @@ def search_binary(xs, target):
 
 ```
 
-Can you write it in Lolcode?
+### Can you write it in Lolcode?
 
 
 ![Imgur](http://i.imgur.com/8bAz4i6.jpg)
