@@ -1,4 +1,4 @@
-# 1. INTRODUCTION
+# 1 INTRODUCTION
 
 ## We're going to be using a website called www.repl.it to have fun with lolcode.
 
@@ -17,7 +17,7 @@ Press the buttons in the top bar regularly:
 ![catz](http://www.lolcats.com/images/u/11/46/lolcatsdotcomqc2oos4nrd7aymcl.jpg)
 
 
-# 2. OUTPUT
+# 2 OUTPUT
 
 ```VISIBLE``` prints to the standard output. 
 
@@ -36,7 +36,7 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/07/35/lolcatsdotcom8514whl5iwcfrm1k.jpg)
 
-# 3. INPUT
+# 3 INPUT
 
 Variables are declared using ```I HAS A```, and the variables can be initialized on the same line using using ```ITZ```.
 
@@ -58,7 +58,7 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/08/50/lolcatsdotcomrq4lywopmz2tyzsb.jpg)
 
-# 4. CONDITIONALS
+# 4 CONDITIONALS
 
 The conditional ```if (Var1 == Var2){}``` is represented as ``` BOTH SAEM Var1 AN Var2``` and ``` O RLY?```, on a new line.
 
@@ -88,7 +88,7 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/08/51/lolcatsdotcomo1gehe7hiqmn05ig.jpg)
 
-# 5. SWITCH STATEMENTS
+# 5 SWITCH STATEMENTS
 
 Multiple conditions can usually be written more neatly  as a Switch/Case statement, this is represented as ``` Var, WTF? and OMG Val``` for the switch / case.
 
@@ -120,7 +120,7 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/08/30/lolcatsdotcomdoozp810tzfcq0up.jpg)
 
-# 6. LOOPS
+# 6 LOOPS
 
 Loops are a succinct way of representing repetition, this is represented as ''' IM IN YR LOOP / IM OUTTA YR LOOP'''.
 
@@ -152,7 +152,7 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/11/45/lolcatsdotcom3gp6wm7dw3jihq9t.jpg)
 
-# 7. FUNCTIONS
+# 7 FUNCTIONS
 
 Functions are a useful way of putting statements together, so that they are easier to understand and reduce the amount of typing you have to do.
 
@@ -194,13 +194,13 @@ KTHXBYE
 
 ![catz](http://www.lolcats.com/images/u/11/49/lolcatsdotcomii0sbc7g7dpgu21m.jpg)
 
-# 8. A LOL APP
+# 8 A LOL APP
 
 Ok, even though Lolcode is Turing complete, some people don't believe that it is a proper language, so here after all the games let's do some proper work!
 
 Everybody knows the Fibonacci Sequence, named for Leonado Pisano, who brought the Arabic numerals into European mathematics and the superior technology of Arabic arithmetic that we all learn today.
 
-Fun fact: Leonado Pisano, also known as Fibonacci (son of Bonacci), did absolutely nothing with the sequence that bears his name. But never mind, Fibonacci deserves to be remembered for his great contribution to numberacy.
+Fun fact: Leonado Pisano, also known as Fibonacci (son of Bonacci), did absolutely nothing with the sequence that bears his name. But never mind, Fibonacci deserves to be remembered for his great contribution to numeracy - bringing the Arabic numerals from India to Italy thus introducing a technological advance that spread across Europe and probably produced the scientific revolution of the Renaissance.
 
 The sequence is 1 1 2 3 5 8 13 21 - each number is given as the some of the previous 2 numbers. 1 + 1 = 2, 1 + 2 = 3 etc
 
@@ -255,11 +255,11 @@ Unfortuantely, the Lolcode syntax isn't very polished, so I have to declare two 
 
 ![catz](http://www.lolcats.com/images/u/11/49/lolcatsdotcomii0sbc7g7dpgu21m.jpg)
 
-# 9. Challenges
+# 9 Challenges
 
 Some programming fun, coding challenges:
 
-## A. Code a generator for '10 green bottles'
+## A Code a generator for '10 green bottles'
 
 
 ```
@@ -274,7 +274,7 @@ there'll be 9 green bottles sitting on the wall
 It's quite good fun to go to -10 green bottles, and then count up again.
 
 
-## B. Code a generator for a binary search
+## B Code a generator for a binary search
 
 The [**binary search**](http://openbookproject.net/thinkcs/python/english3e/list_algorithms.html) can be written in Python like this:
 
