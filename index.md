@@ -1,11 +1,10 @@
 # 1. INTRODUCTION
 
+## We're going to be using a website called www.repl.it to have fun with lolcode.
 
-We're going to be using a website called www.repl.it to have fun with lolcode.
+* Open repl.it open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
 
-* Open repl.it (ctrl-left click or right click and open in a new tab) [repl.it/languages/LOLCODE](http://repl.it/languages/LOLCODE)
-
-Don't forget the buttons in the top bar regularly:
+Press the buttons in the top bar regularly:
 
 * Run - when you want to test your code
 
